@@ -1,0 +1,13 @@
+Tools to Set up
+1. Notpad++
+2. 010 Editor with plugins
+3. HashCalc
+4. Network Miner
+5. WireShark
+6. MS Word (already Installed)
+7. PDF Reader(already Installed)
+
+Shortcuts
+1. www.virustotal.com 
+2. www.base64encode.org
+
