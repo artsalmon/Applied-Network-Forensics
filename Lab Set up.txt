@@ -6,6 +6,7 @@ Tools to Set up
 5. WireShark
 6. MS Word (already Installed)
 7. PDF Reader(already Installed)
+8. Chrome (already Installed)
 
 Shortcuts
 1. www.virustotal.com 
